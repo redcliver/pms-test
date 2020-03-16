@@ -1,1 +1,1 @@
-gunicorn pms-teste:application -b 0.0.0.0:17528
+gunicorn pms-teste:application --preload -b 0.0.0.0:8000
