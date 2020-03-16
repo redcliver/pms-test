@@ -25,7 +25,9 @@ SECRET_KEY = 'ml%u+o7711%o27k_0x@yf-91!nu4krg^*8y0hchl(^2r@ha5s3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'pms-teste.herokuapp.com'
+]
 
 
 # Application definition
