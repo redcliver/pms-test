@@ -1,1 +1,1 @@
-web: gunicorn pms-test.wsgi --log-file -
+web: gunicorn seazoneTest.wsgi --log-file -
