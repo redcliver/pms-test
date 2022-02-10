@@ -34,7 +34,7 @@
     "@syncfusion/ej2-react-schedule": "^17.4.55",
     "bootswatch": "^4.4.1",
     "file-loader": "^5.1.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
